@@ -8,3 +8,4 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6](https://github.com/user-attachments/assets/491ff1ea-ac92-4de2-bca4-c4e72379257b)
