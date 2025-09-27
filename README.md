@@ -20,7 +20,7 @@
 ### ⚙️ Backend  
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
@@ -38,23 +38,13 @@
 
 ## 📈 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hossein-khani&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hossein-khani&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=hosseinkhani1384&show_icons=true&theme=radical" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hosseinkhani1384&theme=radical" height="160"/>
 </p>  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hossein-khani&layout=compact&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hosseinkhani1384&layout=compact&theme=radical" height="160"/>
 </p>  
-
----
-
-
-## 🐍 GitHub Contribution Snake  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/hosseinkhani1384/hosseinkhani1384/main/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-</p>
-
-
 
 ---
 
