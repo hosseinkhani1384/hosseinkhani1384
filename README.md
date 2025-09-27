@@ -1,6 +1,8 @@
-# 🚀 Hi there, I'm Hossein Khani  
+<h1 align="center">🚀 Hi there, I'm Hossein Khani</h1>  
 
-💻 Backend Developer | ⚡ Tech Enthusiast | 🎯 Always learning, always building  
+<p align="center">
+  💻 Backend & Frontend Developer | ⚡ Tech Enthusiast | 🎯 Always learning, always building
+</p>
 
 ---
 
@@ -37,17 +39,31 @@
 ## 📈 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Hossein-khani&show_icons=true&theme=radical" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hossein-khani&theme=radical" height="160"/>
+</p>  
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hossein-khani&layout=compact&theme=radical" height="160"/>
+</p>  
+
+---
+
+## 🐍 Contribution Snake  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Hossein-khani/Hossein-khani/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
 
 ---
 
 ## 🌟 About Me  
-- 🔭 I’m currently working on **MERN stack projects**  
-- 🌱 Learning more about **backend scalability & system design**  
+- 🔭 Currently working on **MERN stack projects**  
+- 🌱 Exploring **backend scalability & system design**  
+- 🎨 Passionate about **frontend creativity**  
 - 🤝 Open to collaborate on exciting **open-source projects**  
 - ⚡ Fun fact: I love solving problems and automating workflows  
 
 ---
 
-✨ *“Code. Learn. Build. Repeat.”* ✨
+<p align="center">
+  ✨ <i>“Code. Learn. Build. Repeat.”</i> ✨
+</p>
