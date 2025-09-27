@@ -48,7 +48,7 @@
 
 ---
 
-## 🐍 Contribution Snake  
+## 🐍 GitHub Contribution Snake  
 <p align="center">
   <img src="https://raw.githubusercontent.com/Hossein-khani/Hossein-khani/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
