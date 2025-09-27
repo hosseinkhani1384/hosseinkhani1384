@@ -50,6 +50,9 @@
   <img src="https://github-profile-trophy.vercel.app/?username=hosseinkhani1384&theme=radical" height="160"/>
 </p>
 
+<p align="center">
+  ![Visitor Count](https://profile-counter.glitch.me/hosseinkhani1384/count.svg)
+</p>
 
 ---
 
