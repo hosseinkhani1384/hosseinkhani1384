@@ -1,9 +1,9 @@
 name: Generate Snake Animation
 
 on:
-  schedule: 
+  schedule: # اجرای خودکار هر روز
     - cron: "0 0 * * *"
-  workflow_dispatch: 
+  workflow_dispatch: # اجرا دستی
 
 jobs:
   build:
@@ -15,10 +15,8 @@ jobs:
       - name: Generate Snake
         uses: Platane/snk@v3
         with:
-          github_user_name: Hossein-khani
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+          github_user_name: hosseinkhani1384
+          outputs: dist/github-contribution-grid-snake.svg
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
