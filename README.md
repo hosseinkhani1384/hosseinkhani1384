@@ -46,6 +46,40 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hosseinkhani1384&layout=compact&theme=radical" height="160"/>
 </p>  
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hosseinkhani1384&theme=radical" height="160"/>
+</p>
+
+<p align="center">
+  ![Visitor Count](https://profile-counter.glitch.me/hosseinkhani1384/count.svg)
+</p>
+
+---
+
+## 💻 Skills Progress  
+
+**Frontend:**  
+HTML  ██████████ 100%  
+CSS   █████████ 90%  
+Bootstrap ████████ 85%  
+JavaScript ████████ 80%  
+React ███████ 75%  
+Redux ██████ 70%  
+Next.js ██████ 70%  
+
+**Backend:**  
+Node.js █████████ 90%  
+Express ████████ 80%  
+MongoDB ███████ 70%  
+MySQL ███████ 70%  
+JWT ███████ 65%  
+
+**Data & Tools:**  
+Python ████████ 80%  
+NumPy ███████ 70%  
+Pandas ███████ 70%  
+Excel ███████ 65%  
+
 ---
 
 ## 🌟 About Me  
@@ -54,6 +88,8 @@
 - 🎨 Passionate about **frontend creativity**  
 - 🤝 Open to collaborate on exciting **open-source projects**  
 - ⚡ Fun fact: I love solving problems and automating workflows  
+
+> ⚡ Fun fact: I solve problems with coffee ☕ + code 💻  
 
 ---
 
