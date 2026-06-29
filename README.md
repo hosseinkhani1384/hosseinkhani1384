@@ -1,166 +1,106 @@
+
 <div align="center">
 
-# 👋 Hi, I'm Hossein Khani
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00E5FF&height=260&section=header&text=Hossein%20Khani&fontSize=55&fontColor=ffffff&animation=twinkling&desc=Frontend%20Developer%20%7C%20Backend%20Developer%20%7C%20MERN%20Stack"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Backend+Developer;MERN+Stack+Developer;Node.js+%7C+Express.js+%7C+MongoDB;Always+Learning+New+Things+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=Frontend+Developer;Backend+Developer;MERN+Stack+Developer;Node.js+%7C+React+%7C+Next.js+%7C+Docker;Always+Learning+🚀"/>
 
-<p>
-Backend Developer passionate about building scalable applications, RESTful APIs, and modern web experiences.
-</p>
+![](https://komarev.com/ghpvc/?username=hosseinkhani1384&style=for-the-badge&color=blueviolet)
 
-![](https://komarev.com/ghpvc/?username=hosseinkhani1384&color=blueviolet&style=for-the-badge)
+</div>
+
+# 💫 About Me
+
+- 🚀 Frontend & Backend Developer
+- ⚡ MERN Stack Developer
+- 🐳 Learning & building with Docker
+- 🌱 Passionate about scalable APIs and modern UI
+- 🤝 Open to Open Source collaborations
+
+---
+
+# ⚡ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,redux,nextjs,nodejs,express,mongodb,mysql,docker,python,git,github,vscode,postman"/>
 
 </div>
 
 ---
 
-# 🚀 Tech Stack
+# 📊 GitHub Stats
 
-## 🎨 Frontend
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,redux,nextjs" />
-
-</p>
-
----
-
-## ⚙️ Backend
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,docker" />
-
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white"/>
-
-</p>
-
----
-
-## 📊 Languages & Data
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python" />
-
-<img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-
-</p>
-
----
-
-## 🔧 Tools
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=vscode,git,github,discord,docker,postman" />
-
-</p>
-
----
-
-# 📈 GitHub Analytics
-
-<p align="center">
+<div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=hosseinkhani1384&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=hosseinkhani1384&theme=tokyonight&hide_border=true"/>
 
-</p>
-
-<p align="center">
-
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hosseinkhani1384&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</p>
+</div>
 
 ---
 
 # 🏆 GitHub Trophies
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=hosseinkhani1384&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=hosseinkhani1384&theme=tokyonight&no-frame=true&row=2&column=4"/>
 
-</p>
+</div>
 
 ---
 
-# 📊 Contribution Graph
+# 📈 Activity Graph
 
-<p align="center">
+<div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=hosseinkhani1384&theme=tokyo-night&hide_border=true"/>
 
-</p>
+</div>
 
 ---
 
-# 💻 Skills
+# 🐍 Snake Contribution
 
-```text
-Frontend
-HTML          ██████████ 100%
-CSS           █████████  90%
-Bootstrap     █████████  90%
-Tailwind CSS  ████████   85%
-JavaScript    ████████   85%
-React         ███████    75%
-Redux         ███████    75%
-Next.js       ███████    70%
+> Enable the GitHub Action from Platane/snk and then use:
 
-Backend
-Node.js       █████████  90%
-Express.js    ████████   85%
-MongoDB       ███████    75%
-MySQL         ███████    75%
-Docker        ██████     65%
-JWT           ██████     65%
-REST APIs     ████████   85%
-
-Programming
-Python        ████████   80%
-NumPy         ███████    70%
-Pandas        ███████    70%
-Excel         ██████     65%
+```md
+<p align="center">
+<img src="https://raw.githubusercontent.com/hosseinkhani1384/hosseinkhani1384/output/github-contribution-grid-snake.svg"/>
+</p>
 ```
 
 ---
 
-# 🌟 About Me
+# 🚀 Featured Projects
 
-🚀 Backend Developer
+| Project | Tech |
+|---------|------|
+| 🛒 MERN E-Commerce | React • Node.js • MongoDB |
+| ✅ Task Manager API | Express • MongoDB • JWT |
+| 💬 Chat App | Socket.io • React |
+| 📊 Dashboard | React • Bootstrap |
 
-💻 MERN Stack Enthusiast
+---
 
-📚 Learning System Design & Scalable Backend
+# 🌐 Connect
 
-⚡ Passionate about Clean Code
-
-🤝 Open Source Contributor
-
-☕ Coffee + Code = Happiness
+<p align="center">
+<a href="https://github.com/hosseinkhani1384"><img src="https://skillicons.dev/icons?i=github"/></a>
+<a href="https://discord.com"><img src="https://skillicons.dev/icons?i=discord"/></a>
+</p>
 
 ---
 
 <div align="center">
 
-## ⭐ Quote
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
-> *"First, solve the problem. Then, write the code."*
+### ⭐ Code • Learn • Build • Repeat ⭐
 
-### Thanks for visiting ❤️
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,100:6C63FF&height=120&section=footer"/>
 
 </div>
