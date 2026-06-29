@@ -30,12 +30,9 @@ const hossein = {
 
 <div align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=hosseinkhani1384&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-<img height="170" src="https://streak-stats.demolab.com?user=hosseinkhani1384&theme=tokyonight&hide_border=true"/>
 </div>
 
-<div align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hosseinkhani1384&layout=compact&theme=tokyonight&hide_border=true"/>
-</div>
+
 
 ## 📈 Contribution Graph
 
