@@ -1,104 +1,166 @@
-<h1 align="center">🚀 Hi there, I'm Hossein Khani</h1>  
+<div align="center">
+
+# 👋 Hi, I'm Hossein Khani
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Backend+Developer;MERN+Stack+Developer;Node.js+%7C+Express.js+%7C+MongoDB;Always+Learning+New+Things+🚀" />
+
+<p>
+Backend Developer passionate about building scalable applications, RESTful APIs, and modern web experiences.
+</p>
+
+![](https://komarev.com/ghpvc/?username=hosseinkhani1384&color=blueviolet&style=for-the-badge)
+
+</div>
+
+---
+
+# 🚀 Tech Stack
+
+## 🎨 Frontend
 
 <p align="center">
-  💻 Backend & Frontend Developer | ⚡ Tech Enthusiast | 🎯 Always learning, always building
+
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,redux,nextjs" />
+
 </p>
 
 ---
 
-## 🛠️ Tech Stack  
-
-### 🌐 Frontend  
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![Next.js](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-
-### ⚙️ Backend  
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-
-### 📊 Data & Tools  
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
-### 🔧 IDE & Collaboration  
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
-
----
-
-## 📈 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hosseinkhani1384&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hosseinkhani1384&theme=radical" height="160"/>
-</p>  
+## ⚙️ Backend
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hosseinkhani1384&layout=compact&theme=radical" height="160"/>
-</p>  
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hosseinkhani1384&theme=radical" height="160"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,docker" />
+
 </p>
 
-
----
-
-## 💻 Skills Progress  
-
-**Frontend:**  
-HTML  ██████████ 100%  
-CSS   █████████ 90%  
-Bootstrap ████████ 85%  
-TailwindCSS ████████ 80%  
-JavaScript ████████ 80%  
-React ███████ 75%  
-Redux ██████ 70%  
-Next.js ██████ 70%  
-
-**Backend:**  
-Node.js █████████ 90%  
-Express ████████ 80%  
-MongoDB ███████ 70%  
-MySQL ███████ 70%  
-JWT ███████ 65%  
-
-**Data & Tools:**  
-Python ████████ 80%  
-NumPy ███████ 70%  
-Pandas ███████ 70%  
-Excel ███████ 65%  
-
----
-
-## 📊 GitHub Activity Graph (Heatmap)  
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hosseinkhani1384&bg_color=0d1117&color=ff69b4&line=61dafb&point=ff6347&area=true" />
+
+<img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white"/>
+
 </p>
 
 ---
 
-## 🌟 About Me  
-- 🔭 Currently working on **MERN stack projects**  
-- 🌱 Exploring **backend scalability & system design**  
-- 🎨 Passionate about **frontend creativity**  
-- 🤝 Open to collaborate on exciting **open-source projects**  
-- ⚡ Fun fact: I love solving problems and automating workflows  
+## 📊 Languages & Data
 
-> ⚡ Fun fact: I solve problems with coffee ☕ + code 💻  
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python" />
+
+<img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+
+</p>
 
 ---
 
+## 🔧 Tools
+
 <p align="center">
-  ✨ <i>“Code. Learn. Build. Repeat.”</i> ✨
+
+<img src="https://skillicons.dev/icons?i=vscode,git,github,discord,docker,postman" />
+
 </p>
+
+---
+
+# 📈 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=hosseinkhani1384&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=hosseinkhani1384&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hosseinkhani1384&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=hosseinkhani1384&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
+
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hosseinkhani1384&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 💻 Skills
+
+```text
+Frontend
+HTML          ██████████ 100%
+CSS           █████████  90%
+Bootstrap     █████████  90%
+Tailwind CSS  ████████   85%
+JavaScript    ████████   85%
+React         ███████    75%
+Redux         ███████    75%
+Next.js       ███████    70%
+
+Backend
+Node.js       █████████  90%
+Express.js    ████████   85%
+MongoDB       ███████    75%
+MySQL         ███████    75%
+Docker        ██████     65%
+JWT           ██████     65%
+REST APIs     ████████   85%
+
+Programming
+Python        ████████   80%
+NumPy         ███████    70%
+Pandas        ███████    70%
+Excel         ██████     65%
+```
+
+---
+
+# 🌟 About Me
+
+🚀 Backend Developer
+
+💻 MERN Stack Enthusiast
+
+📚 Learning System Design & Scalable Backend
+
+⚡ Passionate about Clean Code
+
+🤝 Open Source Contributor
+
+☕ Coffee + Code = Happiness
+
+---
+
+<div align="center">
+
+## ⭐ Quote
+
+> *"First, solve the problem. Then, write the code."*
+
+### Thanks for visiting ❤️
+
+</div>
