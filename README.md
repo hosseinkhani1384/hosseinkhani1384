@@ -12,7 +12,7 @@
 # 💫 About Me
 
 ```ts
-const hossein = {
+const Hossein = {
  role: ["Frontend Developer","Backend Developer"],
  stack:["React","Next.js","Node.js","Express","MongoDB","MySQL","Docker"],
  languages:["JavaScript","Python"],
