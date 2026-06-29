@@ -26,14 +26,6 @@ const hossein = {
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,redux,nextjs,nodejs,express,mongodb,mysql,docker,python,git,github,vscode,postman&perline=6"/>
 </div>
 
-## 📊 GitHub Stats
-
-<div align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=hosseinkhani1384&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-</div>
-
-
-
 ## 📈 Contribution Graph
 
 <div align="center">
@@ -60,7 +52,6 @@ const hossein = {
 <p align="center">
 <a href="https://github.com/hosseinkhani1384"><img src="https://skillicons.dev/icons?i=github"/></a>
 <a href="https://discord.com"><img src="https://skillicons.dev/icons?i=discord"/></a>
-<a href="mailto:your-email@example.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
 </p>
 
 <div align="center">
