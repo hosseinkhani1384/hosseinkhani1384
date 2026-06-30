@@ -5,8 +5,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=Frontend+Developer;Backend+Developer;MERN+Stack+Developer;React+%7C+Next.js+%7C+Node.js;Express+%7C+MongoDB+%7C+Docker;Always+Learning+New+Things+🚀"/>
 
-![](https://komarev.com/ghpvc/?username=hosseinkhani1384&style=for-the-badge&color=blueviolet)
-
 </div>
 
 # 💫 About Me
